@@ -10,7 +10,7 @@
 
 / {
 	model = "Asus Zenfone Max Pro M2";
-	compatible = "qcom,sdm660-qrd", "qcom,sdm660", "qcom,qrd", "qcom,x01bd;
+	compatible = "qcom,sdm660-qrd", "qcom,sdm660", "qcom,qrd", "asus,x01bd";
     chassis-type = "handset";
 
     qcom,msm-id = <0x13d 0x0>;
