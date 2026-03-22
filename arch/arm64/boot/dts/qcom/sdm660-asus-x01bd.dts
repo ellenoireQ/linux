@@ -58,6 +58,10 @@
 		};
 	};
 
+	mem-offline {
+    	status = "disabled";
+	};
+
 	reserved-memory {
 		#address-cells = <2>;
 		#size-cells = <2>;
